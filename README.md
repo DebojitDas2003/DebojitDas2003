@@ -1,5 +1,5 @@
 # 💫 About Me:
-Myself Debojit Das.<br>🔭 I’m currently working on Safe Women Android App<br>🤝 I’m looking for internships<br>🌱 I’m currently learning App Development and Google Cloud<br>💬 Ask me about Kotlin
+Myself Debojit Das.<br>🔭 I’m currently working at Synapsis Medical Technologies inc.<br>🤝 I’m looking for internships<br>🌱 I’m currently learning Augmented Reality, Unity and Unreal Engine 5<br>💬 Ask me about React Native
 
 
 ## 🌐 Socials:
