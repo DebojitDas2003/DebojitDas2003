@@ -1,5 +1,5 @@
 # 💫 About Me:
-Myself Debojit Das.<br>🔭 I’m currently working at Synapsis Medical Technologies inc.<br>🤝 I’m looking for internships<br>🌱 I’m currently learning Augmented Reality, Unity and Unreal Engine 5<br>💬 Ask me about React Native
+Myself Debojit Das.<br>🔭 I’m currently working at Synapsis Medical Technologies inc.<br>🤝 I’m looking for sleep :)<br>🌱 I’m currently learning Augmented Reality, Unity and Unreal Engine 5<br>💬 Ask me about React Native
 
 
 ## 🌐 Socials:
