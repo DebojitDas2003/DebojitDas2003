@@ -13,7 +13,8 @@ Myself Debojit Das.<br>🔭 I’m currently working at Synapsis Medical Technolo
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=debojitdas2003&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDebojitDas2003&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://camo.githubusercontent.com/e7e3b6e3e0f4b1f5a5b1b4cb0d0b72a4c76f4b6d8a3b9e3f3f4e5a7b6d8a9b7c/68747470733a2f2f686974732e736565796f756661726d2e636f6d2f6170692f636f756e742f696e63722f62616467652e7376673f75726c3d68747470733a2f2f6769746875622e636f6d2f4465626f6a69744461733230303326636f756e745f62673d253237373943383344267469746c655f62673d25323535353535352669636f6e3d267469746c653d76697369747326656467655f666c61743d66616c7365)](https://github.com/DebojitDas2003)
+
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://www.paypal.com/paypalme/DebojitDas2003) 
