@@ -5,6 +5,9 @@ Myself Debojit Das.<br>🔭 I’m currently working at Synapsis Medical Technolo
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61557269343567) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/deb.o.jit) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/DebojitDas2003) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@Debojit-Das-2003) 
 
+## 🏆 Trophies:
+[![trophy](https://github-profile-trophy.vercel.app/?username=debojitdas2003&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 # 📊 GitHub Stats:
@@ -12,8 +15,8 @@ Myself Debojit Das.<br>🔭 I’m currently working at Synapsis Medical Technolo
 ![](https://github-readme-streak-stats.herokuapp.com/?user=debojitdas2003&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=debojitdas2003&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![Hits](https://camo.githubusercontent.com/e7e3b6e3e0f4b1f5a5b1b4cb0d0b72a4c76f4b6d8a3b9e3f3f4e5a7b6d8a9b7c/68747470733a2f2f686974732e736565796f756661726d2e636f6d2f6170692f636f756e742f696e63722f62616467652e7376673f75726c3d68747470733a2f2f6769746875622e636f6d2f4465626f6a69744461733230303326636f756e745f62673d253237373943383344267469746c655f62673d25323535353535352669636f6e3d267469746c653d76697369747326656467655f666c61743d66616c7365)](https://github.com/DebojitDas2003)
+# 👀 Profile Vies:
+![Profile Views](https://profile-counter.glitch.me/debojitdas2003/count.svg)
 
 
   ## 💰 You can help me by Donating
