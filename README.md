@@ -19,8 +19,6 @@ Myself Debojit Das.<br>🔭 I’m currently working at Synapsis Medical Technolo
 ![Profile Views](https://profile-counter.glitch.me/debojitdas2003/count.svg)
 
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://www.paypal.com/paypalme/DebojitDas2003) 
-
+  
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
