@@ -1,6 +1,6 @@
 <div align="center">
   <!-- 🌊 Animated Gradient Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,40:161B22,70:064E3B,100:10B981&amp;height=220&amp;section=header&amp;text=Debojit%20Das&amp;fontSize=42&amp;fontAlign=50&amp;fontAlignY=38&amp;desc=Mobile%20Systems%20%26%20React%20Native%20Engineer&amp;descSize=18&amp;descAlign=50&amp;descAlignY=62&amp;animation=fadeIn" width="100%" alt="Debojit Das Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,40:161B22,70:064E3B,100:10B981&amp;height=220&amp;section=header&amp;text=Debojit%20Das&amp;fontSize=42&amp;fontAlign=50&amp;fontAlignY=38&amp;desc=Mobile%20Systems%20%E2%80%A2%20React%20Native%20Engineer&amp;descSize=18&amp;descAlign=50&amp;descAlignY=62&amp;animation=fadeIn" width="100%" alt="Debojit Das Header" />
 
   <!-- ⌨️ Dynamic Typing SVG Bio -->
   <a href="https://deb-o-jit.web.app/">
