@@ -1,18 +1,18 @@
 <div align="center">
   <!-- 🌊 Animated Gradient Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:161B22,70:064E3B,100:10B981&height=220&section=header&text=Debojit%20Das&fontSize=42&fontAlign=50&fontAlignY=38&desc=Mobile%20Systems%20%26%20React%20Native%20Engineer&descSize=18&descAlign=50&descAlignY=62&animation=fadeIn" width="100%" alt="Debojit Das Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,40:161B22,70:064E3B,100:10B981&amp;height=220&amp;section=header&amp;text=Debojit%20Das&amp;fontSize=42&amp;fontAlign=50&amp;fontAlignY=38&amp;desc=Mobile%20Systems%20%26%20React%20Native%20Engineer&amp;descSize=18&amp;descAlign=50&amp;descAlignY=62&amp;animation=fadeIn" width="100%" alt="Debojit Das Header" />
 
   <!-- ⌨️ Dynamic Typing SVG Bio -->
   <a href="https://deb-o-jit.web.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=550&height=45&lines=Mobile+Systems+%26+React+Native+Engineer;Production+Expo+EAS+%26+Zero-Crash+OTA;Healthcare+Tech+%40+Synapsis+Medical;Spec-to-Shipped+Software+via+AI+Agents" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;duration=3000&amp;pause=1000&amp;color=10B981&amp;center=true&amp;vCenter=true&amp;width=550&amp;height=45&amp;lines=Mobile+Systems+%26+React+Native+Engineer;Production+Expo+EAS+%26+Zero-Crash+OTA;Healthcare+Tech+%40+Synapsis+Medical;Spec-to-Shipped+Software+via+AI+Agents" alt="Typing SVG" />
   </a>
 
   <!-- 🏷️ Elevated Social Badges & Profile Views -->
   <p align="center">
-    <a href="https://deb-o-jit.web.app/"><img src="https://img.shields.io/badge/Portfolio-deb--o--jit.web.app-10B981?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
-    <a href="https://linkedin.com/in/DebojitDas2003"><img src="https://img.shields.io/badge/LinkedIn-Debojit_Das-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://dev.to/debojitdas2003"><img src="https://img.shields.io/badge/Dev.to-Articles_&_Guides-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" /></a>
-    <img src="https://komarev.com/ghpvc/?username=DebojitDas2003&style=for-the-badge&color=10B981&label=PROFILE+VIEWS" alt="Profile Views" />
+    <a href="https://deb-o-jit.web.app/"><img src="https://img.shields.io/badge/Portfolio-deb--o--jit.web.app-10B981?style=for-the-badge&amp;logo=google-chrome&amp;logoColor=white" alt="Portfolio" /></a>
+    <a href="https://linkedin.com/in/DebojitDas2003"><img src="https://img.shields.io/badge/LinkedIn-Debojit_Das-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://dev.to/debojitdas2003"><img src="https://img.shields.io/badge/Dev.to-Technical_Articles-0A0A0A?style=for-the-badge&amp;logo=devdotto&amp;logoColor=white" alt="Dev.to" /></a>
+    <img src="https://komarev.com/ghpvc/?username=DebojitDas2003&amp;style=for-the-badge&amp;color=10B981&amp;label=PROFILE+VIEWS" alt="Profile Views" />
   </p>
 </div>
 
@@ -40,8 +40,8 @@
         <li>Includes battle-tested <code>eas.json</code>, <code>app.json</code>, and client key security configurations.</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/Expo-EAS-000020?style=flat-square&logo=expo" />
-        <img src="https://img.shields.io/badge/React_Native-Architecture-61DAFB?style=flat-square&logo=react" />
+        <img src="https://img.shields.io/badge/Expo-EAS-000020?style=flat-square&amp;logo=expo" />
+        <img src="https://img.shields.io/badge/React_Native-Architecture-61DAFB?style=flat-square&amp;logo=react" />
         <img src="https://img.shields.io/badge/CI%2FCD-Pipelines-2088FF?style=flat-square" />
       </p>
     </td>
@@ -55,38 +55,25 @@
       </ul>
       <p>
         <img src="https://img.shields.io/badge/Claude_Code-Multi--Agent-D97706?style=flat-square" />
-        <img src="https://img.shields.io/badge/TypeScript-Monorepo-3178C6?style=flat-square&logo=typescript" />
+        <img src="https://img.shields.io/badge/TypeScript-Monorepo-3178C6?style=flat-square&amp;logo=typescript" />
         <img src="https://img.shields.io/badge/Agents-21_Specialists-8B5CF6?style=flat-square" />
       </p>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3>📍 <a href="https://github.com/DebojitDas2003/VUFindR">VUfindR — Location-Based Media Engine</a></h3>
-      <p>A production-ready React Native map experience that enforces strict GPS-bounded photo and video publishing with real-time sync.</p>
+    <td colspan="2" valign="top">
+      <h3>🏥 Production Healthcare Engineering @ <a href="https://github.com/Synapsis-Medical-Technologies-Inc">Synapsis Medical Technologies</a></h3>
+      <p>Engineering client-facing and telemetry-driven mobile applications with high fault tolerance and clinical-grade reliability.</p>
       <ul>
-        <li>Real-time geolocation constraint engine preventing spoofed uploads.</li>
-        <li>Integrated Supabase backend for spatial queries, map clustering, and media storage.</li>
-        <li>Client-side compression pipeline (1920px, 80% quality) with native navigation handoff.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/React_Native-Maps-61DAFB?style=flat-square&logo=react" />
-        <img src="https://img.shields.io/badge/Supabase-Backend-3ECF8E?style=flat-square&logo=supabase" />
-        <img src="https://img.shields.io/badge/Expo-GPS_Engine-000020?style=flat-square&logo=expo" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏥 Production Healthcare Engineering</h3>
-      <p>Engineering client-facing and telemetry-driven mobile applications at <b>Synapsis Medical Technologies</b>.</p>
-      <ul>
-        <li>Shipping high-cadence production releases with strict reliability constraints.</li>
-        <li>Optimizing memory lifecycles and background task execution under heavy data loads.</li>
-        <li>Over <b>1,600+ production contributions in 2026 alone</b> driving core platform features.</li>
+        <li>Shipping high-cadence production releases with strict memory budgets and zero-crash requirements.</li>
+        <li>Optimizing complex offline-first state synchronization, background worker tasks, and device telemetry.</li>
+        <li>Over <b>1,600+ production contributions in 2026 alone</b> driving core platform features and native stability.</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/HealthTech-Production-DC2626?style=flat-square" />
         <img src="https://img.shields.io/badge/Mobile_Performance-Low_Latency-059669?style=flat-square" />
         <img src="https://img.shields.io/badge/Offline--First-Sync-4F46E5?style=flat-square" />
+        <img src="https://img.shields.io/badge/Architecture-High_Reliability-10B981?style=flat-square" />
       </p>
     </td>
   </tr>
@@ -110,7 +97,7 @@ I document deep production lessons, system bugs, and mobile architecture on [Dev
 ### 🛠️ Tech Stack & Systems Proficiency
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,kotlin,cpp,py,nextjs,tailwind,nodejs,supabase,firebase,postgres,docker,git,linux&perline=7" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=react,ts,kotlin,cpp,py,nextjs,tailwind,nodejs,supabase,firebase,postgres,docker,git,linux&amp;perline=7" alt="Tech Stack Icons" />
 </div>
 
 <br/>
@@ -128,13 +115,9 @@ Languages           ── TypeScript • JavaScript • Kotlin • Python • C
 ### 📊 Engineering Activity & Momentum
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DebojitDas2003&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=10B981&text_color=94A3B8" height="175" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=DebojitDas2003&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;ring=10B981&amp;fire=10B981&amp;currStreakLabel=10B981" height="185" alt="GitHub Streak" />
   &nbsp;
-  <img src="https://streak-stats.demolab.com?user=DebojitDas2003&theme=tokyonight&hide_border=true&background=0D1117&ring=10B981&fire=10B981&currStreakLabel=10B981" height="175" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DebojitDas2003&layout=compact&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DebojitDas2003&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=38BDF8&amp;text_color=94A3B8" height="185" alt="Top Languages" />
 </p>
 
 ---
@@ -153,7 +136,7 @@ Languages           ── TypeScript • JavaScript • Kotlin • Python • C
 
 <!-- 🌊 Matching Waving Footer Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:161B22,70:064E3B,100:10B981&height=120&section=footer" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,40:161B22,70:064E3B,100:10B981&amp;height=120&amp;section=footer" width="100%" alt="Footer Banner" />
 </div>
 
 <div align="center">
