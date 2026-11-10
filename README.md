@@ -1,13 +1,13 @@
 <div align="center">
-  <!-- 🌊 Animated Gradient Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,40:161B22,70:064E3B,100:10B981&amp;height=220&amp;section=header&amp;text=Debojit%20Das&amp;fontSize=42&amp;fontAlign=50&amp;fontAlignY=38&amp;desc=Mobile%20Systems%20%E2%80%A2%20React%20Native%20Engineer&amp;descSize=18&amp;descAlign=50&amp;descAlignY=62&amp;animation=fadeIn" width="100%" alt="Debojit Das Header" />
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,40:161B22,70:064E3B,100:10B981&amp;height=220&amp;section=header&amp;text=Debojit%20Das&amp;fontSize=42&amp;fontAlign=50&amp;fontAlignY=38&amp;desc=Mobile%20Systems%20%E2%80%A2%20React%20Native%20Engineer&amp;descSize=18&amp;descAlign=50&amp;descAlignY=62&amp;fontColor=FFFFFF&amp;descColor=FFFFFF&amp;animation=fadeIn" width="100%" alt="Debojit Das Header" />
 
-  <!-- ⌨️ Dynamic Typing SVG Bio -->
+  <!-- Dynamic Typing SVG Bio -->
   <a href="https://deb-o-jit.web.app/">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;duration=3000&amp;pause=1000&amp;color=10B981&amp;center=true&amp;vCenter=true&amp;width=550&amp;height=45&amp;lines=Mobile+Systems+%26+React+Native+Engineer;Production+Expo+EAS+%26+Zero-Crash+OTA;Healthcare+Tech+%40+Synapsis+Medical;Spec-to-Shipped+Software+via+AI+Agents" alt="Typing SVG" />
   </a>
 
-  <!-- 🏷️ Elevated Social Badges & Profile Views -->
+  <!-- Social Badges & Profile Views -->
   <p align="center">
     <a href="https://deb-o-jit.web.app/"><img src="https://img.shields.io/badge/Portfolio-deb--o--jit.web.app-10B981?style=for-the-badge&amp;logo=google-chrome&amp;logoColor=white" alt="Portfolio" /></a>
     <a href="https://linkedin.com/in/DebojitDas2003"><img src="https://img.shields.io/badge/LinkedIn-Debojit_Das-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
@@ -18,21 +18,21 @@
 
 ---
 
-### 🚀 Engineering Focus
+### Engineering Focus
 
-- 📱 **Production React Native & Expo**: Architecting zero-crash rollouts, Hermes runtime optimization, native modules/bridges, and resilient Over-The-Air (OTA) updates.
-- ⚙️ **EAS & CI/CD Pipelines**: Automated local/cloud build pipelines, runtime version locking, and enterprise build profiling.
-- 🤖 **Agentic Engineering**: Orchestrating autonomous multi-agent developer workflows (Claude Code, spec-to-shipped mobile & web pipelines).
-- 🏥 **Healthcare App Reliability**: Engineering mission-critical client interfaces with offline-first synchronization, high fault tolerance, and tight memory limits.
+- **Production React Native & Expo**: Architecting zero-crash rollouts, Hermes runtime optimization, native modules/bridges, and resilient Over-The-Air (OTA) updates.
+- **EAS & CI/CD Pipelines**: Automated local/cloud build pipelines, runtime version locking, and enterprise build profiling.
+- **Agentic Engineering**: Orchestrating autonomous multi-agent developer workflows (Claude Code, spec-to-shipped mobile & web pipelines).
+- **Healthcare App Reliability**: Engineering mission-critical client interfaces with offline-first synchronization, high fault tolerance, and tight memory limits.
 
 ---
 
-### 📌 Flagship Projects & Architecture
+### Flagship Projects & Architecture
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛠️ <a href="https://github.com/DebojitDas2003/expo-eas-production-blueprint">The Expo EAS Production Blueprint</a></h3>
+      <h3><a href="https://github.com/DebojitDas2003/expo-eas-production-blueprint">The Expo EAS Production Blueprint</a></h3>
       <p>A comprehensive architecture guide, debugging manual, and production configuration templates for migrating React Native applications to <b>Expo EAS & OTA Updates</b>.</p>
       <ul>
         <li>Addresses White Screen of Death (WSOD), runtime mismatches, and poisoned OTA updates.</li>
@@ -46,7 +46,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🤖 <a href="https://github.com/DebojitDas2003/software-development-studio">Software Development Studio</a></h3>
+      <h3><a href="https://github.com/DebojitDas2003/software-development-studio">Software Development Studio</a></h3>
       <p>An autonomous AI product studio turning a single session into a full-stack engineering team: <b>21 specialized agents, 59 skills, and 12 quality gates</b>.</p>
       <ul>
         <li>Automates pipelines from PRD/spec directly to shipped mobile and web builds.</li>
@@ -62,7 +62,7 @@
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <h3>🏥 Production Healthcare Engineering @ <a href="https://github.com/Synapsis-Medical-Technologies-Inc">Synapsis Medical Technologies</a></h3>
+      <h3>Production Healthcare Engineering @ <a href="https://github.com/Synapsis-Medical-Technologies-Inc">Synapsis Medical Technologies</a></h3>
       <p>Engineering client-facing and telemetry-driven mobile applications with high fault tolerance and clinical-grade reliability.</p>
       <ul>
         <li>Shipping high-cadence production releases with strict memory budgets and zero-crash requirements.</li>
@@ -81,11 +81,11 @@
 
 ---
 
-### ✍️ Technical Writing & Architectural Guides
+### Technical Writing & Architecture Guides
 
-I document deep production lessons, system bugs, and mobile architecture on [Dev.to](https://dev.to/debojitdas2003).
+I document production lessons, system bugs, and mobile architecture on [Dev.to](https://dev.to/debojitdas2003).
 
-#### 📚 *The 5-Part Production EAS Series:*
+#### The 5-Part Production EAS Series
 - [Part 1: Why Use Expo EAS in the First Place? (The Honest Truth)](https://dev.to/debojitdas2003/why-use-expo-eas-in-the-first-place-the-honest-truth-26ga)
 - [Part 2: The Bulletproof Guide to Setting Up Expo EAS & OTA Updates (Without the Tears)](https://dev.to/debojitdas2003/the-bulletproof-guide-to-setting-up-expo-eas-ota-updates-without-the-tears-4le3)
 - [Part 3: How to Fix React Native EAS Build White Screens and OTA Crashes](https://dev.to/debojitdas2003/how-to-fix-react-native-eas-build-white-screens-and-ota-crashes-a-complete-guide-2e9n)
@@ -94,7 +94,7 @@ I document deep production lessons, system bugs, and mobile architecture on [Dev
 
 ---
 
-### 🛠️ Tech Stack & Systems Proficiency
+### Technical Stack & Systems
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,ts,kotlin,cpp,py,nextjs,tailwind,nodejs,supabase,firebase,postgres,docker,git,linux&amp;perline=7" alt="Tech Stack Icons" />
@@ -112,7 +112,7 @@ Languages           ── TypeScript • JavaScript • Kotlin • Python • C
 
 ---
 
-### 📊 Engineering Activity & Momentum
+### Activity & Momentum
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=DebojitDas2003&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;ring=10B981&amp;fire=10B981&amp;currStreakLabel=10B981" height="185" alt="GitHub Streak" />
@@ -122,7 +122,7 @@ Languages           ── TypeScript • JavaScript • Kotlin • Python • C
 
 ---
 
-### 🐍 Contribution Activity Snake
+### Contribution Graph
 
 <div align="center">
   <picture>
@@ -134,7 +134,7 @@ Languages           ── TypeScript • JavaScript • Kotlin • Python • C
 
 ---
 
-<!-- 🌊 Matching Waving Footer Banner -->
+<!-- Matching Waving Footer Banner -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,40:161B22,70:064E3B,100:10B981&amp;height=120&amp;section=footer" width="100%" alt="Footer Banner" />
 </div>
